@@ -49,9 +49,6 @@ In this unit, you will be using a new Web Vulns lab environment located in Windo
   - Username: `azadmin`
   - Password: `p4ssw0rd*`
 
-This is a diagram of the network and the machines that will be used in this lab:
-
-![](Images/final-project-setup.png)
 
 Open the Hyper-V Manager to access the nested machines:
 
